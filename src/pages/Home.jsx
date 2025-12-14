@@ -135,7 +135,7 @@ const Home = () => {
                         <BookOpen className="text-gray-600" />
                         <span className="text-gray-500 font-medium">Juan José Ospina</span>
                     </div>
-                    <p className="text-gray-600 text-sm">© 2025 Universidad del Valle. Departamento de Matemáticas.</p>
+                    <p className="text-gray-600 text-sm">© 2025 Universidad del Valle.</p>
                 </div>
             </footer>
         </div>
